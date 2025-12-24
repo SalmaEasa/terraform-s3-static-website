@@ -106,13 +106,6 @@ After applying, Terraform will output the S3 website endpoint provided by LocalS
 🧹 Cleanup
 terraform destroy
 
-🗺️ Roadmap
-
-- S3 Static Website
-
--CloudFront Distribution (in-progress)
-
--Custom Domain (Optional)
 
 📌 Author:
 ```text
