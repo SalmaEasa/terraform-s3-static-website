@@ -1,6 +1,14 @@
+# Terraform
 .terraform/
 *.tfstate
 *.tfstate.backup
 crash.log
-*.log
 
+# LocalStack / AWS
+.localstack/
+.aws/
+
+# Editor / OS
+.vscode/
+*.swp
+.DS_Store
